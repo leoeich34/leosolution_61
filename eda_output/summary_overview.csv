@@ -1,0 +1,2 @@
+rows_total_estimate,cols,has_amount_usd,time_col_detected,client_col_detected,vendor_col_detected,city_col_detected,fraud_col_detected
+7483766,23,False,timestamp,customer_id,vendor,city,is_fraud
